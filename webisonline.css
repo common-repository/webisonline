@@ -1,0 +1,33 @@
+.webisonline{
+	max-width: 800px;
+	margin: 20px auto;
+	padding: 20px;
+	border:1px solid #ccc;
+	border-radius: 10px;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+
+	box-shadow: 0 0 3px #666;
+	-webkit-box-shadow: 0 0 3px #666;
+	-moz-box-shadow: 0 0 3px #666;
+}
+
+.webisonline table.form-table td.th{
+	vertical-align: top;
+}
+.webisonline table.form-table td.td1{
+	vertical-align: top;
+}
+.webisonline table.form-table th{
+	width: 100px !important;
+	vertical-align: top;
+}
+.webisonline .error{
+	height: 40px;
+	padding: 20px 0;
+}
+.webisonline .error{
+	padding: 20px 0 0 20px;
+	font-size: 15px;
+	margin: 20px 0 20px 0;
+}

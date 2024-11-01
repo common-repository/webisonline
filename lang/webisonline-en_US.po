@@ -1,0 +1,313 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WebisOnline\n"
+"POT-Creation-Date: 2015-10-29 11:27+0300\n"
+"PO-Revision-Date: 2015-10-29 11:27+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: templates/error.php:9
+msgid ""
+"К сожалению, конфигурация сервера не позволяет плагину соединиться с "
+"сервером WebisOnline для создания аккаунта. Пожалуйста, перейдите на сайт <a "
+"target=\"_blank\" href=\"http://webisonline.ru/\">http://webisonline.ru/</a> "
+"и зарегистрируйтесь там. После регистрации вам нужно будет скопировать ID "
+"сайта и ввести его в соответствующее поле в конфигурации плагина WordPress"
+msgstr ""
+"Unfortunately, your server configuration does not allow the plugin to "
+"connect to the WebisOnline servers for creating your account. Please visit "
+"the <a target=\"_blank\" href=\"http://webisonline.ru/\">webisonline.ru</a> "
+"website and complete your registration manually. After completing your "
+"registration please paste your website ID from WebisOnline personal area "
+"into the corresponding text field in the plugin configuration."
+
+#: templates/page.php:3
+msgid "test!"
+msgstr "TEST !!!!!!!!"
+
+#: templates/page.php:13
+msgid "Сейчас мы подключим онлайн консультант к вашему сайту."
+msgstr "We will connect WebisOnline to your website now."
+
+#: templates/page.php:17
+msgid ""
+"<h2>Если вы еще не зарегистрированы в системе WebisOnline</h2>введите адрес "
+"e-mail и пароль, которые будут использоваться для входа в систему "
+"WebisOnline, а также укажите адрес сайта, где будет отображаться язычек "
+"онлайн консультанта."
+msgstr ""
+"<h2>If you are not yet registered with WebisOnline</h2>, please provide your "
+"email address and desired password for logging into WebisOnline and specify "
+"the URL of the website that will have WebisOnline widget on it."
+
+#: templates/page.php:20
+msgid ""
+"<i>Если вы зарегистрированы, но вашего сайта нет в нашей системе, заполинте "
+"данные для доступа, укажите домен и мы его вам добавим</i>"
+msgstr ""
+"<i>If you are registered with WebisOnline but did not specify a website, "
+"please fill in your access credentials and specify the website URL. We will "
+"register it for you.</i>"
+
+#: templates/page.php:23
+msgid ""
+"Если вам нужна помощь в установке, задайте вопрос на нашем сайте <a href="
+"\"%WEBISONLINE_URL%\">webisonline.ru</a>"
+msgstr ""
+"Need help with installation? Please submit a request at <a href="
+"\"%WEBISONLINE_URL%\">webisonline.ru</a>"
+
+#: templates/page.php:34
+msgid "Ваш Email"
+msgstr "Your Email address"
+
+#: templates/page.php:39
+msgid ""
+"Укажите email, который вы будете использовать для входа в личный кабинет и в "
+"приложение консультанта. Если у вас уже есть аккаунт в системе WebisOnline, "
+"введите Email адрес сюда."
+msgstr ""
+"Specify the email address that will be used for logging into WebisOnline web "
+"chat and application. If you are already registered with WebisOnline, please "
+"enter your email address here."
+
+#: templates/page.php:43
+msgid "Адрес сайта"
+msgstr "Website URL"
+
+#: templates/page.php:48
+msgid "Укажите адрес сайта, куда нужно установить онлайн-консультант."
+msgstr ""
+"Please specify the URL of the website that will have WebisOnline widget on "
+"it."
+
+#: templates/page.php:52
+msgid "Пароль"
+msgstr "Password"
+
+#: templates/page.php:57
+msgid "Введите пароль для сервиса онлайн-консультаций WebisOnline."
+msgstr "Enter your WebisOnline password."
+
+#: templates/page.php:60
+msgid "Установить WebisOnline прямо сейчас"
+msgstr "Install WebisOnline now"
+
+#: templates/page.php:69
+msgid ""
+"<h2>Если вы уже зарегистрированы в системе WebisOnline,</h2> то просто "
+"укажите адрес вашего сайта или его ID в системе WebisOnline в поле ниже:"
+msgstr ""
+"<h2>If you are already registered with WebisOnline,</h2> simply provide your "
+"website URL or ID in the field below:"
+
+#: templates/page.php:77
+msgid "Введите URL или ID сайта..."
+msgstr "Enter your website URL or ID..."
+
+#: templates/page.php:83
+msgid "Введите URL или ID сайта и виджет будет добавлен на сайт"
+msgstr ""
+"Once you supply the URL or ID of a website registered with WebisOnline, the "
+"widget will be installed on this website."
+
+#: templates/page.php:87
+msgid "Установить виджет WebisOnline"
+msgstr "Install WebisOnline widget"
+
+#: templates/page.php:98
+msgid "Поздравляем! Виджет WebisOnline успешно установлен на ваш сайт."
+msgstr ""
+"Congratulations! WebisOnline widget has been successfully installed on your "
+"website."
+
+#: templates/page.php:101
+msgid ""
+"<h3>1. Войдите в приложение консультанта</h3><br>Для общения в чате вы "
+"можете воспользоваться Веб-версией пульта оператора в личном кабинете <a "
+"target=\"_blank\" href=\"%WEBISONLINE_URL%\">webisonline.ru</a>, либо "
+"скачать <a target=\"_blank\" href=\"%WEBISONLINE_URL%/webisonline_setup.exe"
+"\">приложение консультанта для Windows</a>"
+msgstr ""
+"<h3>1. Log in to consultant's app </h3><br>To start communicating with your "
+"visitors, please use the browser chat available in your client area at <a "
+"target=\"_blank\" href=\"%WEBISONLINE_URL%\">webisonline.ru</a> or download "
+"and install the<a target=\"_blank\" href=\"%WEBISONLINE_URL%/"
+"webisonline_setup.exe\">operator application for Windows</a>"
+
+#: templates/page.php:103
+msgid ""
+"<h3>2. Настройте дизайн чата в соответствии с цветовой схемой на вашем "
+"сайте</h3>"
+msgstr ""
+"<h3>2. Configure WebisOnline according to your website's color scheme.</h3>"
+
+#: templates/page.php:105
+msgid ""
+"После установки виджета на сайт, вы можете настроить дизайн чата посетителя "
+"в соответствии с цветовой схемой, используемой на вашем сайте. Также вы "
+"можете настроить автоприглашения и добавить дополнительных операторов. <a "
+"target=\"_blank\" href=\"%WEBISONLINE_URL%\">Перейти в личный кабинет</a>"
+msgstr ""
+"Having installed WebisOnline widget, you can configure its look and feel so "
+"that it perfectly fits your website. You can configure auto engagements and "
+"add more operators as well. <a target=\"_blank\" href=\"%WEBISONLINE_URL%"
+"\">Go to WebisOnline client area</a>"
+
+#: templates/page.php:111
+msgid "Сбросить настройки виджета"
+msgstr "Reset widget settings"
+
+#: templates/page.php:115
+msgid ""
+"Если вам нужна помощь в установке, задайте вопрос на нашем сайте <a target="
+"\"_blank\" href=\"%WEBISONLINE_URL%\">webisonline.ru</a>"
+msgstr ""
+"Need help with installation? Please submit a request at <a target=\"_blank\" "
+"href=\"%WEBISONLINE_URL%\">webisonline.ru</a>"
+
+#: webisonline.php:139
+msgid "Ошибка подключения к серверу WebisOnline"
+msgstr ""
+"Error connecting to WebisOnline servers. Please contact WebisOnline "
+"technical support."
+
+#: webisonline.php:161
+msgid "<div class='error'>Ошибка подключения к серверу WebisOnline</div>"
+msgstr "<div class='error'>Error connecting to WebisOnline servers.</div>"
+
+#~ msgid ""
+#~ "<h3>1. Войдите в приложение консультанта</h3><br>Для общения в чате вы "
+#~ "можете воспользоваться Веб-версией пульта оператора в личном кабинете <a "
+#~ "href=\"%WEBISONLINE_URL%\">webisonline.ru</a>, либо скачать <a href="
+#~ "\"%WEBISONLINE_URL%/webisonline_setup.exe\">приложение консультанта для "
+#~ "Windows</a>"
+#~ msgstr ""
+#~ "<h3>1. Log in to consultant's app</h3><br>To start communicating with "
+#~ "your visitors, please use the browser chat available in your client area "
+#~ "at <a href=\"%WEBISONLINE_URL%\">webisonline.ru</a> or download and "
+#~ "install the <a href=\"%WEBISONLINE_URL%/webisonline_setup.exe\">operator "
+#~ "application for Windows</a>."
+
+#~ msgid ""
+#~ "После установки виджета на сайт, вы можете настроить дизайн чата "
+#~ "посетителя в соответствии с цветовой схемой, используемой на вашем сайте. "
+#~ "Также вы можете настроить автоприглашения и добавить дополнительных "
+#~ "операторов. <a href=\"%WEBISONLINE_URL%\">Перейти в личный кабинет</a>"
+#~ msgstr ""
+#~ "Having installed WebisOnline widget, you can configure its look and feel "
+#~ "so that it perfectly fits your website. You can configure auto "
+#~ "engagements and add more operators as well. <a href=\"%WEBISONLINE_URL%"
+#~ "\">Go to WebisOnline client area</a>"
+
+#~ msgid "WebisOnline"
+#~ msgstr "WebisOnline"
+
+#~ msgid ""
+#~ "<h3>Настройте дизайн чата в соответствии с цветовой схемой на вашем "
+#~ "сайте</h3>"
+#~ msgstr ""
+#~ "<h3>Configure WebisOnline according to your website's color scheme.</h3>"
+
+#~ msgid ""
+#~ "<h3>Войдите в приложение консультанта</h3><br>Для общения в чате вы "
+#~ "можете воспользоваться Веб-версией пульта оператора в личном кабинете <a "
+#~ "href=\"%WEBISONLINE_URL%\">webisonline.ru</a>, либо скачать <a href="
+#~ "\"%WEBISONLINE_URL%/webisonline_setup.exe\">приложение консультанта для "
+#~ "Windows</a>"
+#~ msgstr ""
+#~ "<h3>Log in to consultant's app</h3><br>To start communicating with your "
+#~ "visitors, please use the browser chat available in your client area at <a "
+#~ "href=\"%WEBISONLINE_URL%\">webisonline.ru</a> or download and install the "
+#~ "<a href=\"%WEBISONLINE_URL%/webisonline_setup.exe\">operator application "
+#~ "for Windows</a>."
+
+#~ msgid ""
+#~ "После установки виджета на сайт, вы можете настроить дизайн чата "
+#~ "посетителя в соответствии с цветовой схемой, используемой на вашем сайте. "
+#~ "Так же вы можете настроить автоприглашения и добавить дополнительных "
+#~ "операторов. <a href=\"%WEBISONLINE_URL%\">Перейти в личный кабинет</a>"
+#~ msgstr ""
+#~ "Having installed WebisOnline widget, you can configure its look and feel "
+#~ "so that it perfectly fits your website. You can configure auto "
+#~ "engagements and add more operators as well. <a href=\"%WEBISONLINE_URL%"
+#~ "\">Go to WebisOnline client area</a>"
+
+#~ msgid ""
+#~ "Настройте дизайн чата в соответствии с цветовой схемой на вашем сайте"
+#~ msgstr "Configure WebisOnline according to your website's color scheme."
+
+#~ msgid ""
+#~ "Для общения в чате вы можете воспользоваться Веб-версией пульта оператора "
+#~ "в личном кабинете <a href=\"%WEBISONLINE_URL%\">webisonline.ru</a>, либо "
+#~ "скачать <a href=\"%WEBISONLINE_URL%/webisonline_setup.exe\">приложение "
+#~ "консультанта для Windows</a>"
+#~ msgstr ""
+#~ "To start communicating with your visitors, please use the browser chat "
+#~ "available in your client area at <a href=\"%WEBISONLINE_URL%"
+#~ "\">webisonline.ru</a> or download and install the <a href="
+#~ "\"%WEBISONLINE_URL%/webisonline_setup.exe\">operator application for "
+#~ "Windows</a>."
+
+#~ msgid ""
+#~ "<h2>Если вы уже зарегистрированы в системе WebisOnline</h2> то просто "
+#~ "укажите адрес вашего сайта или его ID в системе WebisOnline в поле ниже:"
+#~ msgstr ""
+#~ "<h2>If you are already registered with WebisOnline,</h2> simply provide "
+#~ "your website URL or ID in the field below:"
+
+#~ msgid ""
+#~ "Укажите Email, который вы будете использовать для входа в личный кабинет "
+#~ "и в приложение консультанта. Если у вас уже есть аккаунт в системе "
+#~ "WebisOnline, введите Email адрес сюда."
+#~ msgstr ""
+#~ "Specify the email address that will be used for logging into WebisOnline "
+#~ "web chat and application. If you are already registered with WebisOnline, "
+#~ "please enter your email address here."
+
+#~ msgid ""
+#~ "<i>Если вы зарегистрированы, но вашего сайта нет в нашей системе, "
+#~ "заполинте данные для доступа и укажите домен и мы его вам добавим</i>"
+#~ msgstr ""
+#~ "<i>If you are registered with WebisOnline but did not specify a website, "
+#~ "please fill in your access credentials and specify the website URL. We "
+#~ "will register it for you.</i>"
+
+#~ msgid ""
+#~ "<h2>Если вы еще не зарегистрированы в системе WebisOnline</h2>введите "
+#~ "адрес e-mail и пароль, которые будут использоваться для входа в систему "
+#~ "WebisOnline, а так же укажите адрес сайта, где будет отображаться язычек "
+#~ "онлайн консультанта."
+#~ msgstr ""
+#~ "<h2>If you are not yet registered with WebisOnline</h2>, please provide "
+#~ "your email address and desired password for logging into WebisOnline and "
+#~ "specify the URL of the website that will have WebisOnline widget on it."
+
+#~ msgid ""
+#~ "К сожалению, конфигурация сервера не позволяет плагину соединиться с "
+#~ "сервером WebisOnline для создания аккаунта. Пожалуйста перейдите на сайт "
+#~ "<a target=\"_blank\" href=\"http://webisonline.ru/\">http://webisonline."
+#~ "ru/</a> и зарегистрируйтесь там. После регистрации вам нужно будет "
+#~ "скопировать ID сайта и ввести его в соответствующее поле в конфигурации "
+#~ "плагина WordPress"
+#~ msgstr ""
+#~ "Unfortunately, your server configuration does not allow the plugin to "
+#~ "connect to the WebisOnline servers for creating your account. Please "
+#~ "visit the <a target=\"_blank\" href=\"http://webisonline.ru/"
+#~ "\">webisonline.ru</a> website and complete your registration manually. "
+#~ "After completing your registration please paste your website ID from "
+#~ "WebisOnline personal area into the corresponding text field in the plugin "
+#~ "configuration."
